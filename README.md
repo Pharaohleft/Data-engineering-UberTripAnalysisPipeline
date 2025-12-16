@@ -15,3 +15,5 @@ Trip Record Data which include fields capturing pick-up and drop-off dates/times
 
 RAW CSV : https://github.com/Pharaohleft/Data-engineering-UberTripAnalysisPipeline/blob/main/uber_data.csv
 
+## Data Pipeline Architecture
+<img width="1744" height="608" alt="Gemini_Generated_Image_blzdl0blzdl0blzd" src="https://github.com/user-attachments/assets/6719fe2c-2609-4e94-95de-9dd806b11d5d" />
